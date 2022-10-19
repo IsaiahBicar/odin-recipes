@@ -1,0 +1,20 @@
+* {
+    background-color: #C4ECFC;
+}
+h1{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75;
+
+}
+p{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
